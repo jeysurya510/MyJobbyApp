@@ -1,0 +1,23 @@
+.skill-li {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  margin-right: 100px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  align-items: center;
+}
+.skill-img {
+  width: 38px;
+}
+.name-skill {
+  color: rgb(222, 216, 216);
+  font-size: 13px;
+  font-weight: 500;
+  padding-left: 10px;
+}
+.skill-des {
+  margin-top: 20px;
+  color: white;
+  font-size: 20px;
+}

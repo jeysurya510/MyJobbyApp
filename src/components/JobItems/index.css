@@ -1,0 +1,152 @@
+.main-conatiner1 {
+  background-color: black;
+  height: auto;
+  padding-top: 30px;
+  display: flex;
+  flex-direction: column;
+  padding: 30px;
+  padding-left: 230px;
+}
+.jobcard-li1 {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  background-color: #272727;
+  margin-top: 20px;
+  border-radius: 10px;
+  padding: 20px;
+  width: 80%;
+  padding-bottom: 20px;
+  margin-bottom: 40px;
+}
+.companyLogo1 {
+  width: 60px;
+}
+.logo-conatiner1 {
+  display: flex;
+}
+.rating-conatiner1 {
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+}
+.star-icon1 {
+  color: yellow;
+  font-size: 20px;
+}
+.job-details-heading1 {
+  color: white;
+  font-size: 18px;
+}
+.star-rating-conatiner1 {
+  margin-left: 15px;
+  color: white;
+}
+.rating-des1 {
+  font-size: 20px;
+  padding-left: 6px;
+}
+.icons-conatiner1 {
+  display: flex;
+  justify-content: space-between;
+  color: white;
+  margin-top: 20px;
+}
+.icon-child-conatiner1 {
+  font-size: 15px;
+  display: flex;
+}
+.location-icon-container1 {
+  display: flex;
+  align-items: center;
+  margin-right: 15px;
+}
+.location-p1 {
+  padding-left: 4px;
+}
+.packagePerAnnum-p1 {
+  font-size: 16px;
+  font-weight: 550;
+}
+.hr-line1 {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.description-heading1 {
+  color: white;
+  font-size: 20px;
+  padding-bottom: 14px;
+}
+.description-para1 {
+  color: #bbbbbb;
+  font-size: 14px;
+}
+.loader-container-single {
+  background-color: black;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.description-container {
+  display: flex;
+  justify-content: space-between;
+}
+.a-class {
+  color: #6366f1;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 600;
+}
+.link-share-icon {
+  font-size: 14px;
+  margin-left: 5px;
+}
+.skill-ul {
+  display: flex;
+  width: 80%;
+  flex-wrap: wrap;
+}
+.lifeAt-conatiner {
+  display: flex;
+  margin-top: 15px;
+}
+.lifeAt-des {
+  color: white;
+}
+.lifeAt-img {
+  width: 100%;
+}
+.lifeAt-headers {
+  color: white;
+  font-size: 20px;
+  margin-top: 50px;
+}
+
+.lifeAt-des-conatiner {
+  width: 70%;
+}
+.lifeAt-img-conatiner {
+  width: 30%;
+}
+.similar-conatiner {
+  width: 80%;
+  color: white;
+}
+.similarJobs-conatiner {
+  display: flex;
+}
+.sim-h2 {
+  padding-bottom: 15px;
+  font-size: 25px;
+}
+.failure-conatiner1 {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  height: 90vh;
+  background-color: black;
+  color: white;
+}

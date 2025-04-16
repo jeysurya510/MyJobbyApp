@@ -1,0 +1,80 @@
+.similar-job-li {
+  list-style: none;
+  background-color: #272727;
+  padding: 20px;
+  margin-right: 50px;
+  border-radius: 10px;
+}
+
+.companyLogo2 {
+  width: 50px;
+}
+.logo-conatiner2 {
+  display: flex;
+}
+.rating-conatiner2 {
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+}
+.star-icon2 {
+  color: yellow;
+  font-size: 16px;
+}
+.job-details-heading2 {
+  color: white;
+  font-size: 16px;
+}
+.star-rating-conatiner2 {
+  margin-left: 15px;
+  color: white;
+}
+.rating-des2 {
+  font-size: 20px;
+  padding-left: 6px;
+}
+.icons-conatiner2 {
+  display: flex;
+  justify-content: space-between;
+  color: white;
+  margin-top: 20px;
+}
+.icon-child-conatiner2 {
+  font-size: 15px;
+  display: flex;
+}
+.location-icon-container2 {
+  display: flex;
+  align-items: center;
+  margin-right: 15px;
+}
+.location-p2 {
+  padding-left: 4px;
+}
+.packagePerAnnum-p2 {
+  font-size: 16px;
+  font-weight: 550;
+}
+.hr-line2 {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.description-heading2 {
+  color: white;
+  font-size: 20px;
+  padding-bottom: 14px;
+}
+.description-para2 {
+  color: #bbbbbb;
+  font-size: 14px;
+}
+.similar-Description {
+  padding-top: 15px;
+  font-weight: 500;
+  font-size: 18px;
+}
+.para-similar {
+  padding-top: 14px;
+  font-size: 15px;
+  color: #cdc7c7;
+}

@@ -1,0 +1,171 @@
+.job-container {
+  background-color: black;
+  display: flex;
+  height: auto;
+  padding: 40px;
+}
+.job-search-container {
+  color: white;
+  border-radius: 10px;
+  margin-left: 20px;
+  padding: 20px;
+  width: 20%;
+}
+.profile-container {
+  width: 250px;
+  height: 200px;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  padding: 20px;
+}
+.profile-logo {
+  width: 40px;
+}
+.profile-name-des {
+  color: #6366f1;
+  font-weight: 500;
+  font-size: 18px;
+  padding-top: 15px;
+}
+.profile-bio-des {
+  color: rgb(22, 20, 20);
+  font-size: 16px;
+  padding-top: 20px;
+}
+.loader-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.profile-container1 {
+  width: 250px;
+  height: 200px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  padding: 20px;
+  flex-direction: column;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.retry-btn {
+  background-color: #4f46e5;
+  color: white;
+  outline: none;
+  width: 100px;
+  height: 35px;
+  cursor: pointer;
+  border-radius: 6px;
+  border: none;
+}
+.type-Employment-checkbox {
+  display: flex;
+  flex-direction: column;
+}
+.salary-conatiner {
+  display: flex;
+  flex-direction: column;
+}
+.type-Employment-header {
+  font-size: 20px;
+  padding-top: 20px;
+}
+.check-conatiner {
+  margin-top: 15px;
+}
+.check-conatiner input {
+  padding: 10px;
+  margin-right: 10px;
+  width: 16px;
+  height: 16px;
+}
+.check-conatiner label {
+  font-size: 16px;
+}
+.hr-line-one {
+  margin-top: 20px;
+}
+.search-input {
+  width: 350px;
+  padding: 10px;
+  border: 2px solid #7e858e;
+  background-color: transparent;
+  border-start-start-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-right: none;
+  padding-left: 10px;
+  font-size: 14px;
+  color: white;
+  outline: none;
+}
+.search-btn {
+  padding: 12px;
+  color: white;
+  background-color: #4f46e5;
+  border: none;
+  border-radius: 5px;
+  border-start-start-radius: none;
+  border-start-end-radius: none;
+  width: 50px;
+  cursor: pointer;
+  outline: none;
+}
+.job-item-conatiner {
+  width: 80%;
+  margin-left: 30px;
+  margin-right: 50px;
+}
+.jobcard-ul {
+  display: flex;
+  flex-direction: column;
+  color: white;
+}
+.no-job-found-conatiner {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  margin-top: 150px;
+}
+.no-job {
+  width: 350px;
+}
+.no-job-header {
+  font-size: 25px;
+  font-weight: 600;
+  margin-top: 10px;
+}
+.no-job-des {
+  font-size: 14px;
+  color: rgb(216, 221, 225);
+  margin-top: 10px;
+}
+.failure-conatiner {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 40px;
+  color: white;
+}
+.oops-h1 {
+  font-size: 25px;
+  font-weight: 600;
+  padding-top: 15px;
+}
+.oops-para {
+  color: #64748b;
+  font-size: 16px;
+  padding-top: 15px;
+  padding-bottom: 20px;
+}
+.failure {
+  width: 500px;
+}

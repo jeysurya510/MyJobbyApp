@@ -1,0 +1,76 @@
+.jobcard-li {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  background-color: #272727;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  padding: 20px;
+}
+.companyLogo {
+  width: 60px;
+}
+.logo-conatiner {
+  display: flex;
+}
+.rating-conatiner {
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+}
+.star-icon {
+  color: yellow;
+  font-size: 20px;
+}
+.job-details-heading {
+  color: white;
+  font-size: 18px;
+}
+.star-rating-conatiner {
+  margin-left: 15px;
+  color: white;
+}
+.rating-des {
+  font-size: 20px;
+  padding-left: 6px;
+}
+.icons-conatiner {
+  display: flex;
+  justify-content: space-between;
+  color: white;
+  margin-top: 20px;
+}
+.icon-child-conatiner {
+  font-size: 15px;
+  display: flex;
+}
+.location-icon-container {
+  display: flex;
+  align-items: center;
+  margin-right: 15px;
+}
+.location-p {
+  padding-left: 4px;
+}
+.packagePerAnnum-p {
+  font-size: 16px;
+  font-weight: 550;
+}
+.hr-line {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.description-heading {
+  color: white;
+  font-size: 20px;
+  padding-bottom: 14px;
+}
+.description-para {
+  color: #bbbbbb;
+  font-size: 14px;
+}
+.link-class {
+  text-decoration: none;
+  color: white;
+}
